@@ -6,7 +6,7 @@ from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 import asyncio
 from aiogram import Bot, Dispatcher, executor, types
 
-API_TOKEN = '6128717665:AAEVar55XYtYlfdJBBWxpp9RkIxzwAoGXfk'
+API_TOKEN = ''
 
 logging.basicConfig(level=logging.INFO)
 
